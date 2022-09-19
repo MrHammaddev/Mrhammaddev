@@ -10,7 +10,7 @@
   <code>
     <a href="https://www.linkedin.com/in/malik-hammad-/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
   <code><a href="https://www.facebook.com/hamad.awan8/" title="Facebook Profile"><img width="22" src="images/facebook.png"> Facebook</a></code>
-  <code><a href="https://github.com/Mrhammaddev" title="Github Profile"><img width="22" src="images/github.svg"> Github </a></code>
+
   <code><a href="https://www.instagram.com/malikhammad_.awan/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
 </h5>
 <br>
