@@ -15,9 +15,9 @@
 </h5>
 <br>
 <p align="center">
-  Hi, I'm Malik Hammad, Mobile App Engineer from Pakistan
+  Hi, I'm Malik Hammad, Sr.Mobile App Engineer from Pakistan
   <br>
-  🔬 I'm currently studying Bachelor of Science in Computer Science(BSCS) from Minhaj University Lahore.
+  🔬 I have studied Bachelor of Science in Computer Science(BSCS) from Minhaj University Lahore.
   <br>
   💻 Coding is my passion❤️‍🔥 not profession.
   <br>
