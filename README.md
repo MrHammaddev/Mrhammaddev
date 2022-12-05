@@ -1,7 +1,7 @@
 <!-- <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Mrhammaddev.Mrhammaddev"> -->
 
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
+  <a href="">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+there!+👋;Malik+Hammad+here....;Nice+to+see+you!&center=true&size=25">
   </a>
 </h1>
