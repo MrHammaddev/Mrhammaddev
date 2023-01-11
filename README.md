@@ -77,8 +77,9 @@
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
+    <a align="right" href="https://github.com/Mrhammaddev/whatsapp_clone_flutter" title="WhatsApp Clone Flutter"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mrhammaddev&repo=whatsapp_clone_flutter&theme=dark&border_color=61dafb&border_radius=10"></a>
   <a align="left" href="https://github.com/Mrhammaddev/flutter_light_dark_theme" title="Flutter Theme"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mrhammaddev&repo=flutter_light_dark_theme&theme=dark&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/Mrhammaddev/diet_plan_ui" title="Diet Plan App"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mrhammaddev&repo=diet_plan_ui&theme=dark&border_color=61dafb&border_radius=10"></a>
+
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
