@@ -19,9 +19,7 @@
   <br>
   🔬 I have studied Bachelor of Science in Computer Science(BSCS) from Minhaj University Lahore.
   <br>
-  💻 Coding is my passion❤️‍🔥 not profession.
-  <br>
-  📚 I’m currently learning how to build IoT Mobile App🤔
+  💻 Coding is my passion❤️‍🔥
   <br>
   📫 How to reach me: <a href="mailto: hamad.aslam7889@gmail.com">email.com</a>
 </p>
