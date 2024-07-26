@@ -23,6 +23,7 @@
   <br>
   📫 How to reach me: <a href="mailto: hamad.aslam7889@gmail.com">email.com</a>
 </p>
+[![](https://visitcount.itsvg.in/api?id=mrhammaddev&label=Profile%20Views&color=0&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
 <hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
