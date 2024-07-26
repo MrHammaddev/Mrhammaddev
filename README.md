@@ -22,7 +22,8 @@
   💻 Coding is my passion❤️‍🔥
   <br>
   📫 How to reach me: <a href="mailto: hamad.aslam7889@gmail.com">email.com</a>
-  <a href="https://visitcount.itsvg.in">
+  <br>
+    <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=mrhammaddev&label=Profile%20Views&color=0&icon=5&pretty=false" />
 </a>
 </p>
