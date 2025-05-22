@@ -9,22 +9,16 @@
 <h5 align="center">
   <code>
     <a href="https://www.linkedin.com/in/malik-hammad-/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://www.facebook.com/hamad.awan8/" title="Facebook Profile"><img width="22" src="images/facebook.png"> Facebook</a></code>
-
-  <code><a href="https://www.instagram.com/malikhammad_.awan/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
 </h5>
 <br>
 <p align="center">
   Hi, I'm Malik Hammad, Sr.Mobile App Engineer from Pakistan
   <br>
-  🔬 I have studied Bachelor of Science in Computer Science(BSCS) from Minhaj University Lahore.
+  🔬 I have studied Bachelor of Science in Computer Science(BSCS).
   <br>
   💻 Coding is my passion❤️‍🔥
   <br>
-  📫 How to reach me: <a href="mailto: hamad.aslam7889@gmail.com">email.com</a>
-  <br>
-    <a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=mrhammaddev&label=Profile%20Views&color=0&icon=5&pretty=false" />
+  📫 Check out my Portfolio: <a href="malikhammad.com">malikhammad.com</a>
 </a>
 </p>
 
@@ -71,8 +65,7 @@
       <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mrhammaddev&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
     </a>
   </div>
-  <br>
-  <img src="https://activity-graph.herokuapp.com/graph?username=mrhammaddev&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+
 </p>
 
 <hr>
@@ -87,5 +80,5 @@
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
   <a align="left" href="https://github.com/Mrhammaddev/flutter-animated-hover-button" title="Animated Hover Button"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mrhammaddev&repo=flutter-animated-hover-button&theme=dark&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/mrhammaddev/countdown_timer_flutter" title="Countdown Timer"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mrhammaddev&repo=countdown_timer_flutter&theme=dark&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/mrhammaddev/countdown_timer_flutter" title="Countdown Timer"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mrhammaddev&repo=wallpapers_app&theme=dark&border_color=61dafb&border_radius=10"></a>
 </div>
