@@ -1,91 +1,11 @@
-<!-- <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Mrhammaddev.Mrhammaddev"> -->
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/malik-hammad) 
 
-<h1 align="center">
-  <a href="">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+there!+👋;Malik+Hammad+here....;Nice+to+see+you!&center=true&size=25">
-  </a>
-</h1>
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=mrhammaddev&theme=darcula&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=mrhammaddev&theme=darcula&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mrhammaddev&theme=darcula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<h5 align="center">
-  <code>
-    <a href="https://www.linkedin.com/in/malik-hammad-/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-</h5>
-<br>
-<p align="center">
-  Hi, I'm Malik Hammad, Sr.Mobile App Engineer from Pakistan
-  <br>
-  🔬 I have studied Bachelor of Science in Computer Science(BSCS).
-  <br>
-  💻 Coding is my passion❤️‍🔥
-  <br>
-  📫 Check out my Portfolio: <a href="malikhammad.com">malikhammad.com</a>
-</a>
-</p>
-
-
-<hr>
-<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
-<br>
-<p align="center">
-  <code><img title="Flutter" height="25" src="images/flutter.svg"></code>
-  <code><img title="Dart" height="25" src="images/dart.png"></code>
-  <code><img title="Firebase" height="25" src="images/firebase.svg" ></code>
-  <code><img title="C++" height="25" src="images/cpp.svg"></code>
-  <code><img title="C#" height="25" src="images/cSharp.svg"></code>
-  <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
-  <code><img title="Problem Solving" height="25" src="images/problemSolving.png"></code>
-  <code><img title="HTML5" height="25" src="images/html5.svg"></code>
-  <code><img title="CSS" height="25" src="images/css.svg"></code>
-  <code><img title="Git" height="25" src="images/git-original.svg"></code>
-  <code><img title=".NetCore" height="25" src="images/dotnetcore.svg"></code>
-  <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
-  <code><img title="Microsoft Visual Studio" height="25" src="images/visualstudio.png"></code>
-  <code><img title="JSON" height="25" src="images/json.svg"></code>
-  <code><img title="Android" height="25" src="images/android.svg"></code>
-  <code><img title="GitHub" height="25" src="images/github.svg"></code>
-  <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
-  <code><img title="PHP" height="25" src="images/php.svg"></code>
-</p>
-<hr>
-
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<p align=center>
-  <div align=center>
-    <a href="https://github.com/Mrhammaddev/" title="Go to Source">
-      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Mrhammaddev&theme=react&border=61dafb&hide_border=true" alt="Malik Hammad" />
-    </a>
-    <a href="https://github.com/Mrhammaddev/" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=mrhammaddev&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-    </a>
-  </div>
-  <br><br><br><br><br><br><br><br><br>
-  <div align=center>
-    <a href="https://github.com/Mrhammaddev/">
-      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mrhammaddev&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
-    </a>
-  </div>
-
-</p>
-
-<hr>
-
-<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
-<br>
-<div width="100%" align="center">
-   <a align="left" href="https://github.com/MrHammaddev/Image_to_Text_Flutter" title="Image to Text"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mrhammaddev&repo=Image_to_Text_Flutter&theme=dark&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/Mrhammaddev/flutter_light_dark_theme" title="Flutter Theme"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mrhammaddev&repo=flutter_light_dark_theme&theme=dark&border_color=61dafb&border_radius=10"></a>
-
-   
-
-
-</div>
-<br/><br/><br/><br/><br/><br/>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/Mrhammaddev/flutter-animated-hover-button" title="Animated Hover Button"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mrhammaddev&repo=flutter-animated-hover-button&theme=dark&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/mrhammaddev/wallpapers_app" title="Wallpaper App"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mrhammaddev&repo=wallpapers_app&theme=dark&border_color=61dafb&border_radius=10"></a>
-
-</div>
-<br/><br/><br/><br/><br/><br/>
-<div width="100%" align="center">
- <a align="right" href="https://github.com/Mrhammaddev/whatsapp_clone_flutter" title="WhatsApp Clone Flutter"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mrhammaddev&repo=whatsapp_clone_flutter&theme=dark&border_color=61dafb&border_radius=10"></a></div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
